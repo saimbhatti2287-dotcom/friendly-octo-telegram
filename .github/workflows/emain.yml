@@ -1,7 +1,7 @@
 name RDP.txt
 
 100%
-name: RDP
+name: RDPD
 
 on:
   workflow_dispatch:
